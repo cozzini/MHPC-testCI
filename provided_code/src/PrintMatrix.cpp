@@ -1,4 +1,4 @@
-/* this header is better*/
+/* this is a a file for thr MPHPC */ 
 #include "PrintMatrix.h"
 void PrintMatrix(double *A,int n)
 {

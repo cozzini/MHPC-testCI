@@ -1,3 +1,4 @@
+/* this header is better*/
 #include "PrintMatrix.h"
 void PrintMatrix(double *A,int n)
 {
